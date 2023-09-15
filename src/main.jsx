@@ -39,6 +39,7 @@ import User from './components/User/user.jsx'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
+    // the below routing method is called nesting routing , here the root route is the layout and then we are routing thorugh the component
     <Route path='/' element={<Layout/>}>
       <Route path='' element={<Home/>}/>
       <Route path='about' element={<About/>}/>
@@ -53,7 +54,8 @@ const router = createBrowserRouter(
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router}/>
+    {/* routerProvider is working here as a wrapper component */}
+    <RouterProvider router={router}/> 
     <App />
   </React.StrictMode>,
 )
