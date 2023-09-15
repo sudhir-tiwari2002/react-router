@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-7xl bg-gray-400'>this is first heading </h1>
+      
     </>
   )
 }
