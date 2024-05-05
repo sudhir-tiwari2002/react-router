@@ -9,7 +9,7 @@ function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                                src="https://scontent.fpnq7-6.fna.fbcdn.net/v/t39.30808-6/438300495_870671881739613_7251980078587865275_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=k5lrLkBU6QsQ7kNvgEMokCe&_nc_ht=scontent.fpnq7-6.fna&oh=00_AfDQSvbep2FE9189_3IOp-ko2JdgvIA6tf489y7uXrbc3Q&oe=663D6693"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
@@ -36,17 +36,17 @@ function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/sudhir-tiwari2002"
+                                        href="https://www.facebook.com/pixel.computer.meerut"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        Github
+                                        Facebook
                                     </a>
                                 </li>
                                 <li>
-                                    <Link to="https://www.linkedin.com/in/sudhir-tiwari-2838631b4/" target='_blank' className="hover:underline">
-                                        LinkdIn
+                                    <Link to="https://www.google.com/maps/place/PIXEL+COMPUTER+INSTITUTE/@28.971298,77.6667866,17z/data=!3m1!4b1!4m6!3m5!1s0x390c6583c1fad6c3:0xaea078a87c4f829a!8m2!3d28.971298!4d77.6693615!16s%2Fg%2F11fhr7kd26?entry=ttu" target='_blank' className="hover:underline">
+                                        Google
                                     </Link>
                                 </li>
                             </ul>
@@ -71,9 +71,9 @@ function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
+                        © 2022 
                         <a href="/" className="hover:underline">
-                            Sudhir Tiwari
+                             Pixel Computer Institute
                         </a>
                         . All Rights Reserved.
                     </span>

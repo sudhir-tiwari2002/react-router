@@ -11,7 +11,7 @@ function Contact() {
                                 Get in touch: 
                             </h1>
                             <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
-                                Fill in the form to start a conversation
+                                Get in touch On Following Address
                             </p>
 
                             <div className="flex items-center mt-8 text-gray-600">
@@ -38,7 +38,7 @@ function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    185 main road gijhaur, sector-53,noida, Uttar Pradesh
+                                    Pixel Computer Institute Platinum Mall Baghpat Road Meerut - 250001
                                 </div>
                             </div>
 
@@ -60,7 +60,7 @@ function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +91 9359425854
+                                    +91 9456968800
                                 </div>
                             </div>
 
@@ -82,12 +82,12 @@ function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@gmail.com
+                                contact@pixelcomputer.co.in
                                 </div>
                             </div>
                         </div>
 
-                        <form className="p-6 flex flex-col justify-center">
+                        {/* <form className="p-6 flex flex-col justify-center">
                             <div className="flex flex-col">
                                 <label htmlFor="name" className="hidden">
                                     Full Name
@@ -133,7 +133,7 @@ function Contact() {
                             >
                                 Submit
                             </button>
-                        </form>
+                        </form> */}
                     </div>
                 </div>
             </div>
